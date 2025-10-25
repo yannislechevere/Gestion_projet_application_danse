@@ -1,8 +1,6 @@
-# 🎼 HARMONIE – Application de danse (Java)
+# 🎼 HARMONIE – Gestion de projet, planification (Java)
 
 Ce projet est une **implémentation d'une partie dédiée à la planification d'une application de danse**, centrée sur la **gestion et la planification du projet** (documents, diagrammes, estimations, planning réel et prévisionnel).  
-L'application est développée en **Java** en groupe de trois.  
-Elle proposera une **interface graphique** réalisée en **FXML** avec une partie code en **JavaFX**.
 
 Le projet s’articule en **quatre grandes étapes** :
 - étape 1 : faire la SEL et la note de cadrage
@@ -22,7 +20,7 @@ Le projet s’articule en **quatre grandes étapes** :
 >> - Définition des objectifs fonctionnels et non-fonctionnels de l'application de danse
 >> - Livrables : document SEL, note de cadrage, listes de fonctionnalités prioritaires
 >> 
->> 📂 [Dossier Planification / Cadrage](https://github.com/yannislechevere/SAE-2.05/tree/main/Exercices)
+>> 📂 [Dossier Planification / Cadrage](https://github.com/yannislechevere/SAE-2.05/tree/master/Etape-1)
 >
 > </details>
 
@@ -37,7 +35,7 @@ Le projet s’articule en **quatre grandes étapes** :
 >> - **Estimation des charges** (heures/jours par tâche, ressources nécessaires)
 >> - Livrables : organigramme des tâches, tableau RACI, feuille d'estimation des charges
 >> 
->> 📂 [Dossier Planning / Organisation](https://github.com/yannislechevere/SAE-2.05/tree/main/Exercices)
+>> 📂 [Dossier Planning / Organisation](https://github.com/yannislechevere/SAE-2.05/tree/master/Etape-2)
 >
 > </details>
 
@@ -52,7 +50,7 @@ Le projet s’articule en **quatre grandes étapes** :
 >> - Comparaison prévisionnel vs réel et analyse des écarts
 >> - Livrables : fichiers ProjectLibre (.pod ou export PDF), captures d'écran, rapport d'analyse des écarts
 >> 
->> 📂 [Dossier Gantt / ProjectLibre](https://github.com/yannislechevere/SAE-2.05/tree/main/Exercices)
+>> 📂 [Dossier Gantt / ProjectLibre](https://github.com/yannislechevere/SAE-2.05/tree/master/Etape-3)
 >
 > </details>
 
@@ -70,7 +68,7 @@ Le projet s’articule en **quatre grandes étapes** :
 >> - **Who Does What** (répartition finale des responsabilités)
 >> - Livrables : ensemble des rapports et supports pour la soutenance (PDF, exports ProjectLibre, annexes)
 >> 
->> 📂 [Dossier Soutenance / Rapports](https://github.com/yannislechevere/SAE-2.05/tree/main/Exercices)
+>> 📂 [Dossier Soutenance / Rapports](https://github.com/yannislechevere/SAE-2.05/tree/master/Etape-4)
 >
 > </details>
 
@@ -79,4 +77,4 @@ Le projet s’articule en **quatre grandes étapes** :
 # Auteurs
 
 Projet réalisé en trinôme :  
-**CHAUVEL arthur**, **LE CHEVERE Yannis** et **LE MOINg Timeo**
+**CHAUVEL Arthur**, **LE CHEVERE Yannis** et **LE MOING Timéo**
