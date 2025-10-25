@@ -1,4 +1,4 @@
-# 🎼 HARMONIE – Gestion de projet, planification (Java)
+# 🎼 HARMONIE – Gestion de projet d'une application de dance
 
 Ce projet est une **implémentation d'une partie dédiée à la planification d'une application de danse**, centrée sur la **gestion et la planification du projet** (documents, diagrammes, estimations, planning réel et prévisionnel).  
 
